@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Anish Saini 👋  
+# Hi, I'm Anish Saini 
 ### Aspiring Software Developer | B.Tech CSE Student
 
 <a href="https://www.linkedin.com/in/anish-saini/">
