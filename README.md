@@ -1,11 +1,19 @@
 <div align="center">
   
- <h1> Hey   I'm Anish  </h1>
+ <h1> Hey   I'm Anish 🧑🏻‍💻 </h1>
 
-Full-stack developer passionate about building scalable web and mobile applications.
+Full-stack developer passionate about building scalable web and mobile applications.<br><br>
 I enjoy solving complex problems and turning ideas into real products.
 ---
 
+<br><br>
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbndvZTVpOWI0aGM3ZXJhNnExZXlzODVxa2hqcGIwbW1hdWJmMjRwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="900" height="400"/>
+</p
+
+<br><br>
+
+---
 ### <div align="center">  <h2>----About Me ☕️----</h2>
 
 <div align="center">
@@ -14,9 +22,7 @@ I enjoy solving complex problems and turning ideas into real products.
 ### Building projects and learning something new every day.
 ### Fun Fact: You have the skills to make anything you want.
 
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbndvZTVpOWI0aGM3ZXJhNnExZXlzODVxa2hqcGIwbW1hdWJmMjRwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="900" height="400"/>
-</p>
+
 
 ---
 
@@ -83,6 +89,7 @@ I enjoy solving complex problems and turning ideas into real products.
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion"/>
 </p>
 
+<br><br>
 
 ---
 
