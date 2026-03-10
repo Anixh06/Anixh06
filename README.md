@@ -95,9 +95,12 @@ I enjoy solving complex problems and turning ideas into real products.
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anixh06&theme=catppuccin_latte&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=anixh06&theme=catppuccin_latte&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anixh06&theme=catppuccin_latte&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=anixh06&theme=catppuccin-latte&hide_border=false)
+
+![](https://streak-stats.demolab.com?user=anixh06&theme=catppuccin-latte&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anixh06&theme=catppuccin-latte&hide_border=false&layout=compact)
 
 
 ---
