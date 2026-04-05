@@ -132,9 +132,6 @@ Feel free to reach out if you want to collaborate or just chat!
 # <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anixh06&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
 </p>
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3lxZzh5ejB3a3B1OGdoNzA5NmJvYzJvbWZ4ejhlZ3RnMW9tdWhlNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="500"/>
-</p>
 
 
 ---
